@@ -9,7 +9,9 @@ And this mod aims to fill in those gaps, by giving Lorem their own Post True and
 I tried my best to make this mod as accurate/loyal to the original mods as possible, but due to differences in writing/ideas, it won't be a perfect fit.
 
 Another thing I want to make clear, is that I don’t take any ownership, or credit for the original mods, and encourage you to check them out for yourself:
+
 Aftermath (By Amaletz): https://steamcommunity.com/workshop/discussions/18446744073709551615/3277925755448602086/?appid=571880 
+
 Post True: https://steamcommunity.com/sharedfiles/filedetails/?id=1358783935&searchtext=
 
 
