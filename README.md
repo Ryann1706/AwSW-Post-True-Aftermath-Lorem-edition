@@ -17,6 +17,11 @@ Post True: https://steamcommunity.com/sharedfiles/filedetails/?id=1358783935&sea
 
 __________________________________________________________________________________________________________________________________________
 
+This mod includes:
++ Post-True ending content for Lorem
++ A semi-randomized minigame
++ And 4 different endings
+
 Requirements:
 Do 4 of Lorem’s dates, and get impressed status, then do the true ending route.
 
