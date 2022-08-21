@@ -102,7 +102,7 @@ c "It seems like you’re all set on things to do now."
 Lo "Heh, I guess I am."
 $ renpy.pause (2.5)
 
-m "Lorem and I walked in silence for a while, the only sound we could hear was our footsteps. My shoes trudged along the path, and their small claw clinked against pebbles they hit as they walked."
+m "Lorem and I walked in silence for a while, the only sound we could hear was our footsteps. My shoes trudged along the path, and their small claws clinked against pebbles they hit as they walked."
 scene np4 
 show lorem normal
 with dissolveslow
