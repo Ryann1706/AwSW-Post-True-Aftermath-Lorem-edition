@@ -59,6 +59,8 @@ image ryann_round6 = "cg/ryann_round6.png"
 
 
 # Credits
+image ryann_lorem_true_credits = "cg/ryann_lorem_true_credits.png"
+
 label ryann_lorem_true_credits:
 
 $ renpy.pause (3.0)
@@ -69,10 +71,9 @@ $ renpy.pause (1.0)
 play sound "mx/partingsong.ogg"
 $ renpy.pause (1.5)
 
-# Mod credits here
-# show ryann_lorem_true_credits with dissolvemed
-# $ renpy.pause (8.0)
-# scene black with dissolve
+show ryann_lorem_true_credits with dissolvemed
+$ renpy.pause (8.0)
+scene black with dissolve
 
 show izumismile2 at Pan((0, 187), (-300, 0), 10.0)
 show credits1 at left
