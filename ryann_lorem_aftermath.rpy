@@ -281,7 +281,7 @@ And "You know, I could give you my number, and we could talk more later if you w
 c "Sure."
 And "Alright, well, one second."
 show lorem normal flip with dissolve
-m "Andreas quickly went over to a desk and scribbled down a phone number on a peice of paper."
+m "Andreas quickly went over to a desk and scribbled down a phone number on a piece of paper."
 play sound "fx/paper2.ogg"
 And "Here you are."
 $ renpy.pause (1.5)
