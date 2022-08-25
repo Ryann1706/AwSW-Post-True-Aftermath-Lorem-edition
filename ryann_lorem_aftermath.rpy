@@ -1710,7 +1710,7 @@ show zhong serv b flip with dissolve
 hide zhong with easeoutright
 $ renpy.pause (3.0)
 show zhong serv b at Position(xpos=0.95) with easeinright
-Zh "Here you are. Also, you can return the card when you’re ready."
+Zh "Here you are. Also, you can return the cards when you’re ready."
 c "Here are the cards."
 Zh "Thank you."
 c "So, are we going to split the bill?"
@@ -1915,7 +1915,7 @@ else:
     m "I noticed Lorem looking extremely concerned clinging to my shirt, shaking me to snap me back to reality."
     Lo "[player_name], please. Tell me what’s wrong…"
     c "S-Sorry, Lorem. It’s just memories of the other timelines."
-    c "I just wish I could just forget them all."
+    c "I just wish I could forget them all."
     m "I only then noticed a few tears that had been running down my face."
     $ renpy.pause (2.0)
     Lo think "What were you thinking about?"
